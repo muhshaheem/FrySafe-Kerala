@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use FrySafe Kerala in research, please cite this repository."
+title: "FrySafe Kerala"
+type: software
+authors:
+  - family-names: Shaheem
+    given-names: Muhammed
+    affiliation: Independent open-source project
+repository-code: "https://github.com/muhshaheem/FrySafe-Kerala"
+license: MIT
