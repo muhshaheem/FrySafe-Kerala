@@ -1,0 +1,6 @@
+.pio/
+.vscode/
+.DS_Store
+*.bak
+*.kicad_prl
+*.kicad_pro
